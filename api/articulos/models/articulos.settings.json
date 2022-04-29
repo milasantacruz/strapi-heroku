@@ -59,6 +59,10 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "oembed": {
+      "type": "oembed",
+      "columnType": "text"
     }
   }
 }
